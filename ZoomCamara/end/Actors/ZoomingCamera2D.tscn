@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Actors/ZoomingCamera2D.gd" type="Script" id=1]
+
+[node name="ZoomingCamera2D" type="Camera2D"]
+current = true
+script = ExtResource( 1 )
+tween_duration = 0.2
+zoom_factor = 0.1
+
+[node name="Tween" type="Tween" parent="."]
