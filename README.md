@@ -22,7 +22,7 @@ Si tras hacer el curso te sientes agradecido y quieres apoyarme puedes hacerlo d
 
 ![Camera2D: ¿Cómo cambiar el zoom y la posición de la cámara dinámicamente?](Images/ThumbnailAnchorZoom.png)
 
-*consulta el videotutorial [aquí](https://youtu.be/XfN44KdzZw4) y su versión más larga [paso a paso](). También tenéis la versión escrita para GDQuest [aquí](https://www.gdquest.com/tutorial/godot/2d/anchor-camera/)* 
+*consulta el videotutorial [aquí](https://youtu.be/0R_EH7EeAIU) y su versión más larga [paso a paso](https://youtu.be/85dEAuZlc5o). También tenéis la versión escrita para GDQuest [aquí](https://www.gdquest.com/tutorial/godot/2d/anchor-camera/)* 
 
 #### Camera2D: ¿Cómo hacer zoom con la rueda del ratón en Godot? *Carpeta ZoomCamara*
 
